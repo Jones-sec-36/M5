@@ -27,7 +27,8 @@ int main() {
 ```
 ## OUTPUT:
  	
-The new value is: 25.00
+![image](https://github.com/user-attachments/assets/92452c8f-633c-4411-acc5-a98e2d8a4d9c)
+
 
 ## RESULT:
 Thus the program to convert a 23.65 into 25 using pointer has been executed successfully.
@@ -69,7 +70,8 @@ int main() {
 ```
 ## OUTPUT:
 
-The product of first 12 natural numbers is: 479001600        		
+![image](https://github.com/user-attachments/assets/2e80eabc-2ef4-4e55-ae18-30ff4863934d)
+       		
 ## RESULT:
 
 Thus the program has been executed successfully.
@@ -127,16 +129,8 @@ int main() {
 ```
 
 ## OUTPUT
-Enter the number of rows: 3          
-Enter the number of columns: 3        
-Enter the elements of the matrix:     
-1 2 3                                   
-4 5 6                                 
-7 8 9                             
-Sum of each row:            
-Row 1 sum: 6            
-Row 2 sum: 15          
-Row 3 sum: 24
+![image](https://github.com/user-attachments/assets/54fe40a0-3519-44a4-a38e-6ff436bc1241)
+
 
  
  
@@ -189,9 +183,8 @@ int main() {
 ```
 
  ## OUTPUT
-Enter a string: PROGRAM                                    
-Enter number of rows: 5                                   
-P R O G R A M P R O G R A M P R O G R A M P R O G R A M
+![image](https://github.com/user-attachments/assets/790c3b05-9849-4ab1-997d-61ec9e35d7ff)
+
  
 
 ## RESULT
@@ -248,10 +241,8 @@ int main() {
 ```
 
 ## OUTPUT
-Enter 6 integers:     
-1 2 3 4 5 6                
-The array elements are:         
-1 2 3 4 5 6
+![image](https://github.com/user-attachments/assets/b7d99bcb-2b56-45fb-b310-cfeacd09692b)
+
  
 
 ## RESULT
